@@ -1,19 +1,66 @@
-## Hi there 👋
+<h1 align="center">👋 <span id="typewriter"></span></h1>
 
-<!--
-**raiyayusuf/raiyayusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<script>
+    const texts = [
+        "Hi, I'm Raiya Yusuf Priatmojo",
+        "Mechatronics Engineering Student", 
+        "at Yogyakarta State University"
+    ];
+    
+    let textIndex = 0;
+    let charIndex = 0;
+    let currentText = '';
+    let isDeleting = false;
+    let typeSpeed = 100;
 
-Here are some ideas to get you started:
+    function typeWriter() {
+        const typewriterElement = document.getElementById('typewriter');
+        
+        if (textIndex === texts.length) {
+            textIndex = 0;
+        }
+        
+        currentText = texts[textIndex];
+        
+        if (isDeleting) {
+            typewriterElement.textContent = currentText.substring(0, charIndex - 1);
+            charIndex--;
+            typeSpeed = 50;
+        } else {
+            typewriterElement.textContent = currentText.substring(0, charIndex + 1);
+            charIndex++;
+            typeSpeed = 100;
+        }
+        
+        if (!isDeleting && charIndex === currentText.length) {
+            typeSpeed = 2000;
+            isDeleting = true;
+        } else if (isDeleting && charIndex === 0) {
+            isDeleting = false;
+            textIndex++;
+            typeSpeed = 500;
+        }
+        
+        setTimeout(typeWriter, typeSpeed);
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    document.addEventListener('DOMContentLoaded', function() {
+        setTimeout(typeWriter, 1000);
+    });
+</script>
+
+<style>
+    #typewriter {
+        border-right: 3px solid #3B82F6;
+        padding-right: 5px;
+        animation: blink 0.7s infinite;
+    }
+
+    @keyframes blink {
+        0%, 100% { border-color: transparent; }
+        50% { border-color: #3B82F6; }
+    }
+</style>
 
 <img src="https://raw.githubusercontent.com/raiyayusuf/raiyayusuf/output/snake.svg" alt="Snake animation" />
 
