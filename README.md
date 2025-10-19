@@ -8,6 +8,14 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=raiyayusuf&theme=react-dark"/>
 </p>
 
+![Metrics](https://metrics.lecoq.io/raiyayusuf?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
+
+<!-- Stats -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raiyayusuf&show_icons=true&theme=radical"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyayusuf&layout=compact&theme=radical"/>
+</div>
+
 <img src="https://raw.githubusercontent.com/raiyayusuf/raiyayusuf/output/snake.svg" alt="Snake animation" />
 
 ###
