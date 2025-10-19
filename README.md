@@ -11,11 +11,12 @@
 ![Metrics](https://metrics.lecoq.io/raiyayusuf?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
 
 <!-- Stats -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raiyayusuf&show_icons=true&theme=radical"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyayusuf&layout=compact&theme=radical"/>
-</div>
+### 📊 GitHub Stats
 
-<img src="https://raw.githubusercontent.com/raiyayusuf/raiyayusuf/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raiyayusuf&show_icons=true&theme=github_dark&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyayusuf&layout=compact&theme=github_dark" height="170" />
+</p>
 
-###
+---
+
