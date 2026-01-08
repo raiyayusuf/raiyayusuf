@@ -9,12 +9,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyayusuf&layout=compact&langs_count=8&theme=algolia&v=$(date +%s)"/>
 </div>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raiyayusuf/raiyayusuf/output/snake.svg" alt="snake" />
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=raiyayusuf&theme=react-dark"/>
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raiyayusuf/raiyayusuf/output/snake.svg" alt="snake" />
 </p>
