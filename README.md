@@ -5,8 +5,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=raiyayusuf&theme=algolia&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyayusuf&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=raiyayusuf&theme=algolia&border_radius=10&v=$(date +%s)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyayusuf&layout=compact&langs_count=8&theme=algolia&v=$(date +%s)"/>
 </div>
 
 <!-- Snake Animation -->
