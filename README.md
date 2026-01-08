@@ -18,3 +18,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/raiyayusuf/raiyayusuf/output/snake.svg" alt="snake" />
 </p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raiyayusuf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
