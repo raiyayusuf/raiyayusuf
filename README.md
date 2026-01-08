@@ -16,7 +16,7 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raiyayusuf/raiyayusuf/output/snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/raiyayusuf/raiyayusuf/output/snake.svg?palette=github-blue" alt="snake" />
 </p>
 
 <!-- Profile Views Counter -->
