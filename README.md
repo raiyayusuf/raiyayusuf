@@ -3,12 +3,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&width=435&lines=Hi%2C+I'm+Raiya+Yusuf+Priatmojo!;Mechatronics+Engineering+Student;at+Yogyakarta+State+University" alt="Typing SVG" />
 </p>
 
-<!-- Stats -->
 <!-- GitHub Stats -->
 <div align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=raiyayusuf&theme=algolia&border_radius=10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiyayusuf&layout=compact&langs_count=8&theme=algolia"/>
 </div>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raiyayusuf/raiyayusuf/output/snake.svg" alt="snake" />
+</p>
 
 <!-- Activity Graph -->
 <p align="center">
